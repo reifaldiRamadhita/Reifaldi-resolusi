@@ -3,6 +3,7 @@ Rencana konten Reifaldi
 *ES6
 *Framework
   ^vue
+  ^reactjs
 +Struktur Data Dasar
 2. ReactJS
 3. PHP framework
