@@ -1,4 +1,6 @@
 Rencana konten Reifaldi
 1. Javascript
+*ES6
+*Framework
 2. ReactJS
 3. PHP framework
