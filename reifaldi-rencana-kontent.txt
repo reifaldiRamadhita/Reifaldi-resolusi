@@ -2,6 +2,9 @@ Rencana konten Reifaldi
 1. Javascript
 *ES6
 *Framework
+  ^vue
 +Struktur Data Dasar
 2. ReactJS
 3. PHP framework
+  ^laravel
+4.python
